@@ -1,0 +1,26 @@
+
+
+DOCUMENT OBJECT -
+
+when a html document is loaded in a webpage it becomes a document object.
+document object is one of the property of window object
+it is defined by window.document. or simply by document.
+it is appilicable in every platform.
+it is part of both DOM and BOM.
+
+SYNTAX : document.propertyname
+
+
+WINDOW OBJECT -
+
+it represent a open window in a browsere.
+it is a object of the browser.
+it is defined by window.
+it is applicable only in browsers since it comes from browser.
+it is a part of BOM and not DOM.
+
+SYNTAX : window.propertyname
+ 
+
+
+
